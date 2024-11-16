@@ -3,6 +3,10 @@
 	<artifactId>maven-war-plugin</artifactId>
 	<version>3.4.0</version>
 </plugin>
+<properties>
+	<maven.compiler.source>1.8</maven.compiler.source>
+	<maven.compiler.target>1.8</maven.compiler.target>
+</properties>
 <h1> this is avinash </h1>
 	<h2> this is avinash </h2>
 	<h1> this is avinash </h3>
