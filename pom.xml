@@ -1,12 +1,9 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
-	<modelVersion>8.0.1</modelVersion>
-	<groupId>jashu</groupId>
-	<artifactId>avinash</artifactId>
-	<packaging>war</packaging>
-	<version>8.1.0</version>
-	<name>RAHAM NTEFLIX APP</name>
+<plugin>
+	<groupId>org.apache.maven.plugins</groupId>
+	<artifactId>maven-war-plugin</artifactId>
+	<version>3.4.0</version>
+</plugin>
 <h1> this is avinash </h1>
 	<h2> this is avinash </h2>
 	<h1> this is avinash </h3>
-</project>
+
